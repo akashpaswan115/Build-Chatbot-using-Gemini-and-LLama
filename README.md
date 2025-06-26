@@ -1,6 +1,6 @@
-## **Groq Chat Assistant**
+## **Gemini Chat Assistant**
 
-**Groq Chat Assistant** is an AI-powered chatbot application developed using Streamlit. It allows users to interact conversationally with an AI model, offering a dynamic and highly customizable chat experience. Whether you're gathering information, seeking expert advice, or engaging in creative discussions, this tool adapts to your needs.
+**Gemini Chat Assistant** is an AI-powered chatbot application developed using Streamlit. It allows users to interact conversationally with an AI model, offering a dynamic and highly customizable chat experience. Whether you're gathering information, seeking expert advice, or engaging in creative discussions, this tool adapts to your needs.
 
 ---
 
